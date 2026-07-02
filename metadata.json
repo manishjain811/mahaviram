@@ -1,0 +1,6 @@
+{
+  "name": "Mahaviram Apartment",
+  "description": "Digital Resident Directory Application for Mahaviram Apartment Society, Udaipur, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
